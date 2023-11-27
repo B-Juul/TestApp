@@ -14,9 +14,6 @@ var app = builder.Build();
 //    app.UseSwaggerUI();
 //}
 
-// Conflict2
-// Conflict3
-// Conflict1
 
 app.UseHttpsRedirection();
 
