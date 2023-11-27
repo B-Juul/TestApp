@@ -15,8 +15,7 @@ var app = builder.Build();
 //}
 
 // Conflict2
-// Conflict3
-// Conflict1
+
 
 app.UseHttpsRedirection();
 
