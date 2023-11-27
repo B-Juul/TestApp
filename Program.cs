@@ -14,6 +14,7 @@ var app = builder.Build();
 //    app.UseSwaggerUI();
 //}
 
+//just a comment
 app.UseHttpsRedirection();
 
 var summaries = new[]
