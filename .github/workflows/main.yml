@@ -16,7 +16,7 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-         dotnet-verion: '6.0.x'
+         dotnet-verion: '8.x'
 
       - name: Restore
         run: dotnet restore ./TestApp.sln
